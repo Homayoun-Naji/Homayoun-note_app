@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Felipa
+- Font Author: Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name "Felipa"
+- Font Source: http://fonts.gstatic.com/s/felipa/v25/FwZa7-owz1Eu4F_wSNSEwM2zpA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
