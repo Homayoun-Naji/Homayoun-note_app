@@ -88,7 +88,6 @@ function Search() {
       });
     }
   }
-  searchInput.value = "";
 }
 
 searchButton.addEventListener("click", Search);
